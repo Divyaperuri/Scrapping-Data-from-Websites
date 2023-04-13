@@ -1,0 +1,6 @@
+import sys
+sys.path.insert(0,r"C:\PythonCourse@Mar 1st\Python practice files@Pythonlife")
+
+from Functions import * 
+print(add(7,8))
+print(sub(59,33))
